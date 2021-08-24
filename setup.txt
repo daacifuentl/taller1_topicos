@@ -10,4 +10,41 @@ Descomprimela y peguela donde usted corre sus archivos de laravel
 
 En mi caso es XAMPP y la carpeta es htdocs
 
-Modificar
+
+|| -----------------------  Paso 1
+
+
+CREAR LA BASE DE DATOS ----> Desde la consoloa:
+
+mysql -u root
+
+NOTA: En caso de que no te funcione este comando simplemente vas a crear una Base de datos manual que se llame taller
+
+|| ----------------------- Paso 2
+
+NOTA: Si lo hiciste manualmente omite este paso
+
+create database taller
+
+|| ----------------------- Paso 3
+
+
+En la consola
+
+composer install
+php artisan key:generate
+
+|| ----------------------- Paso 4
+
+php artisan migrate:fresh
+
+OPCIONAL: 
+
+php artisan serve (Esto te da el link directo)
+
+
+Si no:
+
+Ve a la ruta: laraveltaller/public 
+
+
