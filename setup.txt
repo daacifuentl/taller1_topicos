@@ -1,0 +1,12 @@
+Cómo correr el proyecto, si existe algun inconveniente no dudes contactarme. 
+
+- Daniel Alejandro Cifuentes Londoño
+
+--------------
+
+En el ZIP está la carpeta con el nombre laraveltaller
+
+Descomprimela y peguela donde usted corre sus archivos de laravel
+
+En mi caso es XAMPP y la carpeta es htdocs
+
