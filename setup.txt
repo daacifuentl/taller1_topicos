@@ -10,3 +10,4 @@ Descomprimela y peguela donde usted corre sus archivos de laravel
 
 En mi caso es XAMPP y la carpeta es htdocs
 
+Modificar
